@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GraphicsDemo</string>
+    <string-array name="types">
+        <item>cartoon</item>
+        <item>natural</item>
+    </string-array>
+</resources>
+
